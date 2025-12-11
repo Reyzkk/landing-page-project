@@ -1,30 +1,30 @@
-# Landing Page - Portfólio de Viagens
+# Landing Page - Promoções de Viagens
 
 ![Preview](./dist/assets/airplane-BpMMoDHR.png)
 
 ## Descrição do Projeto
 
-Este projeto é uma **Landing Page** moderna criada para apresentar um portfólio de viagens. O objetivo é mostrar serviços e promoções de forma clara e atrativa, com uma interface **responsiva** que se adapta a diferentes dispositivos, incluindo desktops, tablets e smartphones.
+Esta é uma **Landing Page** moderna desenvolvida para apresentar promoções e informações de viagens de forma clara e atrativa. O projeto prioriza **responsividade**, garantindo que o site funcione bem em diferentes dispositivos, de desktops a smartphones.
 
-A página foi desenvolvida utilizando **React**, **Tailwind CSS**, e **Vite**, garantindo performance e facilidade na manutenção.
+O layout combina tipografia impactante, cores harmoniosas e efeitos sutis para criar uma experiência agradável ao usuário.
 
 ---
 
 ## Funcionalidades
 
-- **Responsividade completa:** Layout flexível que se ajusta a qualquer tamanho de tela.
-- **Menu mobile interativo:** Ícone de menu que abre uma navegação lateral em telas menores.
-- **Botões e links estilizados:** Componentes reutilizáveis para links e botões com efeitos de hover.
-- **Seção Hero impactante:** Título grande, parágrafo descritivo e imagem ilustrativa.
-- **Design moderno e clean:** Combinação de cores harmoniosa e tipografia agradável.
-- **Deploy no GitHub Pages:** O site está publicado e acessível online.
+- **Responsividade completa:** Layout flexível que se adapta a qualquer tamanho de tela.
+- **Menu mobile interativo:** Ícone de menu que abre a navegação em telas menores.
+- **Componentes reutilizáveis:** Botões e links estilizados com efeitos de hover.
+- **Seção Hero chamativa:** Título, descrição e imagem ilustrativa.
+- **Design moderno e limpo:** Combinação de cores sóbrias e fontes elegantes.
+- **Deploy no GitHub Pages:** O site está publicado online.
 
 ---
 
 ## Tecnologias Utilizadas
 
-- **React** – Biblioteca JavaScript para construção da interface.
-- **Tailwind CSS** – Framework de utilitários CSS para estilização rápida.
+- **React** – Biblioteca para construção de interfaces.
+- **Tailwind CSS** – Framework de utilitários CSS.
 - **Vite** – Bundler moderno para desenvolvimento rápido.
 - **Git & GitHub** – Controle de versão e deploy.
 
