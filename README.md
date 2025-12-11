@@ -1,3 +1,13 @@
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Reyzkk/landing-page-project?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Reyzkk/landing-page-project?style=for-the-badge)
+
 # Landing Page - Promoções de Viagens
 
 ![Preview](./dist/assets/airplane-BpMMoDHR.png)
@@ -30,5 +40,9 @@ O layout combina tipografia impactante, cores harmoniosas e efeitos sutis para c
 
 ---
 
-## Estrutura do Projeto
+# Site
 
+O site está publicado no **GitHub Pages** e pode ser acessado aqui:
+
+[🔗 Acessar o site](https://reyzkk.github.io/landing-page-project/)
+---
