@@ -4,7 +4,7 @@ import Button from "./ui/button"
 function Main() {
     return (
         /*Hero Section*/
-        <main id="" className="bg-white min-h-screen overflow-x-hidden">
+        <main id="" className="bg-white min-h-[95vh] overflow-x-hidden">
             <div className="flex flex-col md:flex-row items-center justify-between max-w-6xl mx-auto px-6 py-16 gap-8">
                 <div className="flex flex-col gap-4 md:w-1/2">
                     <h1 className="page-animate poppins text-6xl font-bold text-shadow-2xl text-blue-400 pb-6">Sua viagem com mais <span className="text-black">segurança.</span></h1>
